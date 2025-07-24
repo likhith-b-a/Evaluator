@@ -14,7 +14,7 @@ npm install
 node app.js
 ```
 
-### 2. Start Frontend
+### 3. Start Frontend
 
 ```bash
 cd client
